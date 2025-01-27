@@ -191,7 +191,7 @@ Include the necessary meta tags in your `index.html` file to ensure your app beh
 
 ## License
 
-This project is licensed under the UNLICENCED License. See the `LICENSE` file for details.
+This project does not have a specific license. Feel free to reuse and adapt the code as needed for your own projects!
 
 ---
 
